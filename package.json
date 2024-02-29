@@ -1,0 +1,14 @@
+{
+  "name": "next-api-endopoint",
+  "version": "1.0.0",
+  "description": "endpoint api per esercizio nextJS (react/NextJS/next-api)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gabriele di grazia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
